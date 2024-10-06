@@ -1,6 +1,6 @@
 # Screen-Recorder_ChromeExtension
 <p>
- <br>A Chrome extension useful for presentations, projects, screen activity recording,etc., avoids data breaches and authentication problems.</br>
+ <br>A Chrome extension useful for presentations, projects, screen activity recording, mock interviews etc., avoids data breaches and authentication problems.</br>
   
 </p>
 Steps to use:
