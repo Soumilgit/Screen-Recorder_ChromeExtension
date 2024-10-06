@@ -1,7 +1,7 @@
 # Screen-Recorder_ChromeExtension
 Steps to use:
 <p>
-  <br>1.Clone this repository on your local PC.</br>
+  <br>1.Clone this repository on your local device.</br>
   <br>2.'Load unpacked' the folder location from the 'Extensions'->'Manage Extensions' tab.</br>
   <br>3.Pin extension to toolbar, and then ,having clicking on it, follow along.</br>
 </p>
