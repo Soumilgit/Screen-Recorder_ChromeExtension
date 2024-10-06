@@ -3,7 +3,7 @@
  <br>A Chrome extension useful for presentations, projects and screen activity recording, avoids data breaches and authentication problems.</br>
   
 </p>
-# Steps to use:
+Steps to use:
 <p>
   <br>1.Clone this repository on your local device.</br>
   <br>2.'Load unpacked' the folder location from the 'Extensions'->'Manage Extensions' tab.</br>
