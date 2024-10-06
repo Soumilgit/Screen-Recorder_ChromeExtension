@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Degraphe Screen Recorder",
+    "name": "ScreenCheck Screen Recorder",
     "description": "It records the user's screen",
     "icons": {
         "128": "/images/icon-128x128.png"
