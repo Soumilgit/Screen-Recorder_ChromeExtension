@@ -20,7 +20,7 @@
     padding: 12px;
     border: none;
     border-radius: 25px;
-    background: #3498db;
+    background: #9a6d0c;
     color: white;
     width: 100%;
     font-size: 16px;
@@ -30,11 +30,11 @@
 }
 
 .button_cont button:hover {
-    background: #2980b9;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    background: #d9981f;
+    box-shadow: 0 4px 6px rgba(87, 7, 7, 0.2);
 }
 
 .button_cont button:active {
     transform: translateY(2px);
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 4px rgba(98, 9, 9, 0.2);
 }
