@@ -1,13 +1,14 @@
 # Screen-Recorder_ChromeExtension
 <p>
  <br>A Chrome extension useful for presentations, projects, screen activity recording, mock interviews etc., avoids data breaches and authentication problems.</br>
+ <br>You have option to share either tab, window or entire screen after using it.</br>
   
 </p>
 Steps to use:
 <p>
   <br>1.Clone this repository on your local device.</br>
   <br>2.'Load unpacked' the folder location from the 'Extensions'->'Manage Extensions' tab.</br>
-  <br>3.Pin extension to toolbar, and then ,having clicking on it, follow along.</br>
+  <br>3.Pin extension to toolbar, and then ,having clicked on it, follow along.</br>
 </p>
 <p>
   <br>References:</br>
