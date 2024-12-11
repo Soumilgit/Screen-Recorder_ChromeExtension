@@ -2,7 +2,29 @@
 <p>
  <br>A Chrome extension useful for presentations, projects, screen activity recording, mock interviews etc., avoids data breaches and authentication problems.</br>
  <br>You have option to share either tab, window or entire screen after using it.</br>
-  
+ 
+# Folder structure :
+Below is the folder structure :
+```
+.github
+FUNDING.yml
+Javascript
+│  └─ popup.js
+├─ LICENSE
+├─ README.md
+├─ background.js
+├─ content.js
+├─ css
+│  └─ styles.css
+images
+icon-128x128.png
+icon-16x16.png
+│  └─ icon-32x32.png
+├─ manifest.json
+├─ notes.txt
+└─ popup.html
+```
+
 </p>
 Steps to use:
 <p>
