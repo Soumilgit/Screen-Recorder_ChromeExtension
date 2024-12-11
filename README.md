@@ -4,7 +4,7 @@
  <br>You have option to share either tab, window or entire screen after using it.</br>
  
 # Folder structure :
-Below is the folder structure :
+Here is the folder structure :
 ```
 .github
 FUNDING.yml
